@@ -2,7 +2,7 @@
 
 ### URL: https://minomad-portfolio.vercel.app
 
-### 📚Front-end Stack
+<!-- ### 📚Front-end Stack
 
 <div align=left>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -27,4 +27,4 @@
   <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
 
-### 💻프로젝트
+### 💻프로젝트 -->
