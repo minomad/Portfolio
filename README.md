@@ -1,6 +1,6 @@
 # portfolio
 
-### URL: https://minomad-portfolio.vercel.app
+### URL: https://portfolio-minomad.vercel.app
 
 <!-- ### 📚Front-end Stack
 
