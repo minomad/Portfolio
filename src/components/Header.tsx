@@ -37,7 +37,7 @@ function Header() {
           aria-controls="primary-menu"
           aria-expanded={show ? "true" : "false"}
           role="button"
-          tabIndex="0"
+          // tabIndex="0"
           onClick={toggleMenu}
         >
           <span></span>
