@@ -26,11 +26,11 @@ export const introText = {
 
 export const skillText = [
     {
-        title: "HTML, CSS, Sass",
+        title: "HTML, CSS, SASS, TailWind",
         desc: "접근성, 웹표준, 반응형, SEO"
     },
     {
-        title: "JavaScript, TypeScript, React",
+        title: "React, JavaScript, TypeScript",
         desc: "함수형 프로그래밍"
     },
     {
@@ -61,14 +61,14 @@ export const portText = [
         code: "https://github.com/minomad/life-drama",
         view: "https://life-drama.vercel.app",
     },
-    {
-        num: "03",
-        title: "NEXTANIME (개인 프로젝트-작업중)",
-        desc: "타입스크립트와 NEXT.JS로 작업한 애니메이션 OTT 클론 코딩",
-        // img: port03,
-        code: "https://github.com/minomad/next-anime",
-        view: "https://github.com/minomad/next-anime",
-    },
+    // {
+    //     num: "03",
+    //     title: "NEXTANIME (개인 프로젝트-작업중)",
+    //     desc: "타입스크립트와 NEXT.JS로 작업한 애니메이션 OTT 클론 코딩",
+    //     // img: port03,
+    //     code: "https://github.com/minomad/next-anime",
+    //     view: "https://github.com/minomad/next-anime",
+    // },
     {
         num: "04",
         title: "Lion Place (팀 프로젝트)",
